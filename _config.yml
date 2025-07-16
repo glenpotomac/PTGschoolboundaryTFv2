@@ -1,0 +1,8 @@
+title: Potomac Glen Task Force
+description: Community-led response to MCPS school redistricting
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
